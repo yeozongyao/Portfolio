@@ -778,6 +778,7 @@ section {
 
 .main-title {
   text-align: center;
+  padding-top: 5rem;
 }
 
 .main-title h2 {
@@ -801,7 +802,6 @@ section {
   transform: translate(-50%, -50%);
   font-weight: 800;
   font-size: 6.3rem;
-  padding-top: 5rem;
 }
 
 .about-container .left-about p {
