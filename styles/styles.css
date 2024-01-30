@@ -779,6 +779,7 @@ section {
 .main-title {
   text-align: center;
   padding-top: 5rem;
+  padding-bottom: 5rem;
 }
 
 .main-title h2 {
