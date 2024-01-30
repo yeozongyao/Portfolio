@@ -832,6 +832,11 @@ section {
     margin: 0 auto;
   }
 
+  .right-header .justify{
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
   .right-header .name {
     font-size: 2.5rem !important;
     text-align: center;
