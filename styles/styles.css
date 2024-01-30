@@ -801,6 +801,9 @@ section {
 
 .about-container .left-about p {
   padding-left: 0;
+  text-align: justify;
+  text-justify: inter-word;
+
 }
 
 @media screen and (max-width: 600px) {
