@@ -832,7 +832,7 @@ section {
     margin: 0 auto;
   }
 
-  .right-header .justify{
+  .right-header #justify{
     text-align: justify;
     text-justify: inter-word;
   }
