@@ -366,6 +366,22 @@ section {
   width: 85%;
 }
 
+.about-stats .progress-bars .progress-bar .progress-con .progress .automation {
+  width: 60%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .backend {
+  width: 60%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .mlai {
+  width: 60%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .pandas {
+  width: 70%;
+}
+
 
 
 .stat-title {
